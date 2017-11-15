@@ -73,7 +73,8 @@
                                     <span>{{ $best_answer->user->name }} ({{ $best_answer->user->points }}) <br></span>
                                 </div>
                                 <div class="panel-body">
-                                    {{$best_answer->content}}
+                                    {!!  Markdown::convertToHtml($best_answer->content) !!}
+                                    
                                 </div>
                             </div>
                         </div>
@@ -133,7 +134,7 @@
                  <div class="panel-body">
                    
                      <p class="text-center">
-                     	{{ $r->content }}
+                     	{!!  Markdown::convertToHtml($r->content) !!}
                         <br>
 
                      </p>
