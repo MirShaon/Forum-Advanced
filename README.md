@@ -62,7 +62,7 @@ If you have any query please contact at mosraki@gmail.com
 
 ![Forum Page](/screenshots/1.png)
 ![Forum Page](/screenshots/2.png)
-![Forum ](/screenshots/3.PNG)
+![Forum ](/screenshots/3.png)
 ![Forum](/screenshots/4.png)
 ![Forum](/screenshots/5.png)
 ![Forum](/screenshots/6.png)
